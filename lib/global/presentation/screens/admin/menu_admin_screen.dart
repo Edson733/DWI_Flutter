@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../../widgets/card.dart';
 
 class MenuAdminScreen extends StatelessWidget {

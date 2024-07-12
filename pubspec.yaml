@@ -30,6 +30,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_bloc: ^8.0.1 # Renderizar la data que me trae cubir en la vista
+  bloc: ^8.0.1 # Crear los cubits y los estados para separar la data de la vista
+  http: ^0.13.4 # Peticiones
+  equatable: ^2.0.3 # Comparar informacion, objetos
 
 
   # The following adds the Cupertino Icons font to your application.
